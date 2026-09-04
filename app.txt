@@ -5,3 +5,4 @@ Footer color changed to blue
 Add search functionality
 Enhance search functionality with filters
 Add User authentication module
+Fix User authentication validation logic
